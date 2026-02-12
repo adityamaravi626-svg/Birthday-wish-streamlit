@@ -19,7 +19,7 @@ image = Image.open("harry.png")
 st.image(image,caption = ' # A Good Friend ❤️',use_container_width=True)
 
 st.markdown("""
- ## 🎂 Wishing you a best birthday ever!, Harleen.\n
+ ## 🎂 Wishing you a best birthday ever!.\n
      Keep smiling and shining always ❤️.             
             """)
 
@@ -27,5 +27,6 @@ st.markdown('---')
 st.markdown("""
 ### 🎊 'May this year bring you closer to your dreams'. 
  """)
+
 
 st.balloons() 
