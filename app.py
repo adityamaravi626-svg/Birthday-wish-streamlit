@@ -16,7 +16,7 @@ audio_html = f"""
    """
 st.markdown(audio_html,unsafe_allow_html = True)
 image = Image.open("harry.png")
-st.image(image,caption = ' # A Good Friend ❤️',use_container_width=True)
+st.image(image,caption = ' # A beautiful rose to the cute person ❤️',use_container_width=True)
 
 st.markdown("""
  ## 🎂 Wishing you a best birthday ever!.\n
@@ -30,3 +30,4 @@ st.markdown("""
 
 
 st.balloons() 
+
